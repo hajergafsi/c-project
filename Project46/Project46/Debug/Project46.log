@@ -1,0 +1,28 @@
+﻿  Source.cpp
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(35,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(36,13): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(37,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(38,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(39,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(40,15): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(57,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(58,13): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(59,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(60,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(61,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(62,15): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(82,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(83,13): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(84,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(85,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(86,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(87,15): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(99,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(100,13): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(101,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(102,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(103,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(104,15): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(197,30): warning C4244: '=' : conversion de 'std::streamoff' en 'long', perte possible de données
+C:\Users\DELL\source\repos\Project46\Project46\Source.cpp(439,13): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Project46.vcxproj -> C:\Users\DELL\source\repos\Project46\Debug\Project46.exe
